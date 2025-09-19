@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\",
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\apresentacao\\frmpee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\apresentacao\\frmpee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\apresentacao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\apresentacao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\apresentacao\\frmcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\apresentacao\\frmcadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|c:\\users\\aluno\\documents\\reverdan\\pooii\\ds34noite\\crudpessoasnoite\\crudpessoasnoite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F03FEF-0C53-4ADF-92AC-1AEFEA5D43AC}|crudPessoasNoite\\crudPessoasNoite.csproj|solutionrelative:crudpessoasnoite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PessoaDAO.cs",
-              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\PessoaDAO.cs",
-              "RelativeDocumentMoniker": "crudPessoasNoite\\DAL\\PessoaDAO.cs",
-              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\PessoaDAO.cs",
-              "RelativeToolTip": "crudPessoasNoite\\DAL\\PessoaDAO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:24:33.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Controle.cs",
-              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Controle.cs",
-              "RelativeDocumentMoniker": "crudPessoasNoite\\Modelo\\Controle.cs",
-              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Controle.cs",
-              "RelativeToolTip": "crudPessoasNoite\\Modelo\\Controle.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Title": "frmPEE.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmPEE.xaml.cs",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Apresentacao\\frmPEE.xaml.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmPEE.xaml.cs",
+              "RelativeToolTip": "crudPessoasNoite\\Apresentacao\\frmPEE.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:23:45.531Z",
+              "WhenOpened": "2025-09-11T23:46:17.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Validacao.cs",
-              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Validacao.cs",
-              "RelativeDocumentMoniker": "crudPessoasNoite\\Modelo\\Validacao.cs",
-              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Validacao.cs",
-              "RelativeToolTip": "crudPessoasNoite\\Modelo\\Validacao.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Controle.cs",
+              "RelativeToolTip": "crudPessoasNoite\\Modelo\\Controle.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwD8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:03:33.154Z",
+              "WhenOpened": "2025-09-04T23:34:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Modelo\\Validacao.cs",
+              "RelativeToolTip": "crudPessoasNoite\\Modelo\\Validacao.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:06:33.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\Conexao.cs",
+              "RelativeToolTip": "crudPessoasNoite\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T00:04:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\PessoaDAO.cs",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\DAL\\PessoaDAO.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\DAL\\PessoaDAO.cs",
+              "RelativeToolTip": "crudPessoasNoite\\DAL\\PessoaDAO.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAWwHkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:50:27.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPEE.xaml",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmPEE.xaml",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Apresentacao\\frmPEE.xaml",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmPEE.xaml",
+              "RelativeToolTip": "crudPessoasNoite\\Apresentacao\\frmPEE.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T23:33:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Apresentacao\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\MainWindow.xaml",
+              "RelativeToolTip": "crudPessoasNoite\\Apresentacao\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-04T23:53:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmCadastro.xaml",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\Apresentacao\\frmCadastro.xaml",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\Apresentacao\\frmCadastro.xaml",
+              "RelativeToolTip": "crudPessoasNoite\\Apresentacao\\frmCadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T00:08:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\App.xaml",
+              "RelativeDocumentMoniker": "crudPessoasNoite\\App.xaml",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\Reverdan\\POOII\\ds34Noite\\crudPessoasNoite\\crudPessoasNoite\\App.xaml",
+              "RelativeToolTip": "crudPessoasNoite\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-04T23:11:56.09Z",
               "EditorCaption": ""
             }
           ]

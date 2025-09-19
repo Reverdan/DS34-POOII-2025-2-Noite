@@ -1,4 +1,5 @@
-﻿using System;
+﻿using crudPessoasNoite.Modelo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,20 @@ namespace crudPessoasNoite.Apresentacao
         public frmCadastro()
         {
             InitializeComponent();
+        }
+
+        private void btnCadastrar_Click(object sender, RoutedEventArgs e)
+        {
+            List<String> listaDadosPessoa = new List<String>();
+            listaDadosPessoa.Add("0");
+            listaDadosPessoa.Add(txbNome.Text);
+            listaDadosPessoa.Add(txbRg.Text);
+            listaDadosPessoa.Add(txbCpf.Text);
+
+            Controle controle = new Controle();
+            controle.CadastrarPessoa(listaDadosPessoa);
+
+            MessageBox.Show(controle.mensagem);
         }
     }
 }

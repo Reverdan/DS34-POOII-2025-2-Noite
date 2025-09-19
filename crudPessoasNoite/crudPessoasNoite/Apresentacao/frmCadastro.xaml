@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:crudPessoasNoite.Apresentacao"
         mc:Ignorable="d"
-        Title="frmCadastro" Height="450" Width="800">
+        Title="Cadastro de Pessoas" Height="250" Width="450">
     <Grid>
-        
+        <Label Name="lblNome" Content="Nome" HorizontalAlignment="Left" Margin="36,30,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbNome" HorizontalAlignment="Left" Margin="100,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="252"/>
+        <Label Name="lblRg" Content="RG" HorizontalAlignment="Left" Margin="36,70,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbRg" HorizontalAlignment="Left" Margin="100,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Name="lblcpf" Content="CPF" HorizontalAlignment="Left" Margin="36,110,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbCpf" HorizontalAlignment="Left" Margin="100,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="326,162,0,0" VerticalAlignment="Top" Click="btnCadastrar_Click"/>
+
     </Grid>
 </Window>

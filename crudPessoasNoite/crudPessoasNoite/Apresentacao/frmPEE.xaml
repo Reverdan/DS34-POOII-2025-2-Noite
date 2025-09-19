@@ -5,8 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:crudPessoasNoite.Apresentacao"
         mc:Ignorable="d"
-        Title="frmPEE" Height="450" Width="800">
+        Title="Pesquisar, editar e excluir pessoa" Height="300" Width="500">
     <Grid>
-        
+        <Label Name="lblId" Content="ID" HorizontalAlignment="Left" Margin="26,21,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbId" HorizontalAlignment="Left" Margin="97,25,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnPesquisarPorId" Content="Pesquisar por ID" HorizontalAlignment="Left" Margin="340,28,0,0" VerticalAlignment="Top" Click="btnPesquisarPorId_Click" Width="121"/>
+        <Label Name="lblNome" Content="Nome" HorizontalAlignment="Left" Margin="26,91,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbNome" HorizontalAlignment="Left" Margin="97,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="219"/>
+        <Label Name="lblRg" Content="RG" HorizontalAlignment="Left" Margin="26,122,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbRg" HorizontalAlignment="Left" Margin="97,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Name="lblCpf" Content="CPF" HorizontalAlignment="Left" Margin="26,153,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbCpf" HorizontalAlignment="Left" Margin="97,157,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnEditar" Content="Editar" HorizontalAlignment="Left" Margin="340,193,0,0" VerticalAlignment="Top" Width="121" Click="btnEditar_Click"/>
+        <Button Name="btnExcluir" Content="Excluir" HorizontalAlignment="Left" Margin="26,193,0,0" VerticalAlignment="Top" Width="88" Click="btnExcluir_Click"/>
+        <Button x:Name="btnPesquisarPorNome" Content="Pesquisar por nome" HorizontalAlignment="Left" Margin="340,94,0,0" VerticalAlignment="Top" Width="121" Click="btnPesquisarPorNome_Click"/>
     </Grid>
 </Window>

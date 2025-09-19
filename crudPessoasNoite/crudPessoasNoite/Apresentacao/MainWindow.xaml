@@ -5,8 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:crudPessoasNoite"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="CRUD de Pessoas" Height="200" Width="400">
     <Grid>
+        <Menu>
+            <MenuItem Header="CRUD Pessoas">
+                <MenuItem Name="mniCadastropessoas" Header="Cadastro de Pessoas" Click="mniCadastropessoas_Click" />
+                <MenuItem Name="mniPEE" Header="Pesquisar, editar e excluir" Click="mniPEE_Click" />
+            </MenuItem>
+        </Menu>
 
     </Grid>
 </Window>
